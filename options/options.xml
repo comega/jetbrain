@@ -1,0 +1,17 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="selected.color.option.type" value="LOCALE.MSGID_PLURAL_KEYWORD" />
+    <property name="PLUGIN_FILTER" value="nodejs&#10;angula&#10;color&#10;theme" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="KEYMAP" value="" />
+  </component>
+</application>

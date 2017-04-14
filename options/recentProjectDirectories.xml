@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/ionics/simApp" />
+        <option value="$USER_HOME$/Code/ionics/tabTest" />
+        <option value="$USER_HOME$/Code/ionics/Tuts/auth-http" />
+        <option value="$USER_HOME$/Code/ionics/Tuts/modal(Finished)" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Code/ionics/simApp" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/ionics/simApp" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/ionics/Tuts/auth-http">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.10504.2" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1489823099088" />
+              <option name="buildTimestamp" value="1482245263867" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ionics/Tuts/modal(Finished)">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.10504.2" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1489823027153" />
+              <option name="buildTimestamp" value="1482245263867" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ionics/simApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.10504.2" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1492181714558" />
+              <option name="buildTimestamp" value="1482245230707" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ionics/tabTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.10504.2" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1492078736901" />
+              <option name="buildTimestamp" value="1482245273281" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-163.10504.2" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1488649718673" />
+              <option name="buildTimestamp" value="1482245253885" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>
